@@ -1,0 +1,7 @@
+.vs
+.vscode
+
+TestResults
+bin
+obj
+Local.Env/local_db
